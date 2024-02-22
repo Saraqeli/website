@@ -1,0 +1,125 @@
+ .navbar-brand{
+color:black;
+font-size:30px;
+text-transform:uppercase;
+font-weight:bold;
+letter-spacing:2px;
+}
+
+#navbar{
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#footer{
+background-color:#fafafa;
+}
+
+ .navbar-collapse{
+font-size:15px;
+text-transform:uppercase;
+font-weight:bold;
+}
+#carousel {
+background:#ECECEC;
+text-align: center;
+height: 150px;
+}
+
+.btn {
+padding:12px 30px;
+transition-duration:0.4s;
+font-weight:bold;
+background-color:#DAAD86;
+cursor:pointer;
+border-radius:0;
+float:right;
+margin-bottom:7px;
+}
+
+#cardtext{
+margin-left:2px;
+margin-right:2px;
+}
+
+.rev{
+color:#888;
+text-align:center;
+text-transform:uppercase;
+font-weight:bold;
+font-size:35px;
+}
+
+#imazh{
+-webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,2,2,2)), to(rgba(0,0,0,0)));
+mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+    }
+.title{
+font-size:30px;
+text-transform:uppercase;
+font-weight:bold;
+font-style:normal;
+text-align:center;
+}
+
+#review{
+text-color:#2f2f2f;
+float:left;
+margin-top:20px;
+}
+
+#carousel{
+background-color:#fafafa;
+}
+.card-text{
+margin-left:15px;
+margin-right:15px;
+padding-bottom:15px;
+text-align:center;
+
+}
+.card-title{
+margin-left:15px;
+margin-right:15px;
+margin-top:10px;
+text-align:center;
+}
+
+hr {
+border-top: 1px 
+solid #000;
+text-transform:uppercase;
+text-weight:bold; 
+width:50%;
+}
+
+
+a {
+color: #000;
+}
+
+
+a:link{
+text-decoration:none;
+}
+
+
+#contact2{
+    
+letter-spacing:3px;
+
+}
+
+.row{
+margin-left:15px;
+margin-right:15px;
+font-style:normal;
+}
+
+.card{
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+iframe{
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin-bottom:15px;
+}
+
